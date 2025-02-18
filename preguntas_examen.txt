@@ -1,0 +1,942 @@
+
+PREGUNTA:
+1. ¿Cuál de las siguientes afirmaciones es VERDADERA con respecto a los siniestros de transito en Chile?
+
+OPCIONES:
+[✓] A) La mayor cantidad de siniestros de tránsito
+              se produce en las ciudades, pero la mayor cantidad de muertes en accidentes se produce en carreteras y
+              caminos
+[ ] B) La mayor cantidad de siniestros de tránsito y de muertes
+              debidas a estos accidentes se produce en las ciudades
+[ ] C) La mayor cantidad de siniestros de tránsito se produce en
+              áreas rurales, pero la mayor cantidad de muertos en accidentes se produce en las ciudades
+
+==================================================
+
+PREGUNTA:
+2. En Chile, los siniestros de tránsito afectan especialmente a:
+
+OPCIONES:
+[ ] A) Las mujeres acompañadas por niños
+[✓] B) Los Jóvenes entre 15 y 29 años.
+[ ] C) Las mujeres mayores 40.
+[ ] D) Los ancianos mayores de 65 años.
+
+==================================================
+
+PREGUNTA:
+3. Sobre los siniestros de tránsito, podemos afirmar que:
+
+OPCIONES:
+[ ] A) Son causa de 5.000 discapacitados al año.
+[✓] B) No somos conscientes de todo el problema.
+[ ] C) Por cada muerte 20 personas sufren.
+[ ] D) Se valora el dolor familiar por las muertes.
+
+==================================================
+
+PREGUNTA:
+4. ¿Es correcto llamar a los siniestros de tránsito 'accidentes'?
+
+OPCIONES:
+[ ] A) A veces.
+[ ] B) Si, porque no podemos predecir ni evitar.
+[✓] C) NO, porque se pueden evitar.
+[ ] D) Si, porque el accidente no depende del conductor.
+
+==================================================
+
+PREGUNTA:
+5. Para saber el funcionamiento de la motocicleta debemos estar familiarizados con...
+
+OPCIONES:
+[ ] A) Chasis, sistema eléctrico y Motor.
+[✓] B) Sus partes y la correcta mantención y cuidados
+              que debe tener con este tipo de vehículo.
+[ ] C) Casco, Chasis y Ruedas.
+[ ] D) Frenos, Casco y Chasis.
+
+==================================================
+
+PREGUNTA:
+6. La principal característica de una motocicleta es que no mantiene...
+
+OPCIONES:
+[✓] A) Su equilibrio.
+[ ] B) Su velocidad.
+[ ] C) Sus Fuerzas laterales.
+[ ] D) Su frenado suave.
+
+==================================================
+
+PREGUNTA:
+7. ¿ A qué elemento va sujeta la horquilla delantera?
+
+OPCIONES:
+[ ] A) Amortiguadores telescópicos
+[ ] B) Espiral
+[✓] C) Chasis
+
+==================================================
+
+PREGUNTA:
+8. ¿Cuál es la función del brazo basculante?
+
+OPCIONES:
+[ ] A) Sostiene la rueda delantera y trasera.
+[ ] B) Sostiene solo la suspensión trasera.
+[ ] C) Sostiene la rueda delantera y los amortiguadores
+              telescópicos.
+[✓] D) Sostiene la rueda y la suspensión trasera.
+
+==================================================
+
+PREGUNTA:
+9. ¿El motor de la motocicleta es considerado el?
+
+OPCIONES:
+[✓] A) El corazón de la motocicleta
+[ ] B) El componente menos importante
+[ ] C) El cerebro de la motocicleta
+
+==================================================
+
+PREGUNTA:
+10. El motor de dos tiempos, para generar la combustión debe mezclar...
+
+OPCIONES:
+[ ] A) Aceite y agua.
+[✓] B) Aceite y combustible.
+[ ] C) Aceite, agua y combustible.
+
+==================================================
+
+PREGUNTA:
+11. ¿Qué partes componen el sistema de combustible de un vehículo a gasolina?
+
+OPCIONES:
+[ ] A) Inyectores, filtro de aire y filtro de combustible.
+[✓] B) Tanque de combustible, bomba de combustible,
+              conductos, filtro, carburador o sistema de inyección.
+[ ] C) Estanque de combustible e inyectores.
+[ ] D) Inyectores, carburador, filtro de aire y filtro de
+              combustibles.
+
+==================================================
+
+PREGUNTA:
+12. ¿A qué se debe la emisión de humos visibles por el tubo de escape?
+
+OPCIONES:
+[ ] A) Esta quemando bien el combustible.
+[ ] B) Falta de aceite.
+[ ] C) Tubo de escape roto.
+[✓] D) Mala combustión del motor.
+
+==================================================
+
+PREGUNTA:
+13. El motor en una motocicleta se pone en funcionamiento por...
+
+OPCIONES:
+[ ] A) Por medio de un pedal de arranque y bobina.
+[ ] B) Por medio de la batería.
+[✓] C) Por medio de un sistema de arranque que se
+              acciona mediante un circuito eléctrico accionado por un interruptor, o bien, un sistema mecánico accionado
+              por un pedal de arranque y bobina.
+[ ] D) Por medio de un motor externo.
+
+==================================================
+
+PREGUNTA:
+14. El tipo de correa dentada, generalmente es usada en motocicletas con transmisión del tipo...
+
+OPCIONES:
+[ ] A) Semi-automática.
+[ ] B) Ninguna de las mencionadas.
+[ ] C) Mecánica.
+[✓] D) Automática.
+
+==================================================
+
+PREGUNTA:
+15. ¿Es necesario realizar algún tipo de rodaje en los neumáticos nuevos de las motocicletas?
+
+OPCIONES:
+[ ] A) No es necesario.
+[ ] B) Según indique el fabricante.
+[ ] C) Sólo en motocicletas de competición.
+[✓] D) Sí es necesario, porqué resbalan más.
+
+==================================================
+
+PREGUNTA:
+16. Es conveniente que periódicamente haga revisar por un técnico lo siguiente:
+
+OPCIONES:
+[ ] A) La suspensión.
+[✓] B) Todas las mencionadas
+[ ] C) Los rayos y cojinetes de las ruedas y las llantas.
+[ ] D) El cojinete de la dirección.
+
+==================================================
+
+PREGUNTA:
+17. Voy a 60 Km/h y se enciende la luz de la presión de aceite, yo debo:
+
+OPCIONES:
+[ ] A) Seguir conduciendo hasta la gasolinera más baja.
+[✓] B) Detener el motor.
+[ ] C) Acelerar para que lubrique más rápido.
+[ ] D) Conducir a menor velocidad.
+
+==================================================
+
+PREGUNTA:
+18. Si la luz de control de los intermitentes destella en forma más rápida que lo habitual:
+
+OPCIONES:
+[ ] A) Se quemó un fusible.
+[ ] B) Se rompió el alternador.
+[✓] C) Es probable que se haya quemado una
+              ampolleta.
+
+==================================================
+
+PREGUNTA:
+19. ¿Qué debería hacer usted para corregir un coletazo de las ruedas traseras?
+
+OPCIONES:
+[ ] A) Girar el volante hacia el lado opuesto al coletazo.
+[ ] B) Aplicar su freno de mano.
+[✓] C) Girar el volante hacia el lado que se desplaza
+              la cola del vehículo.
+[ ] D) No girar el volante del vehículo para nada.
+
+==================================================
+
+PREGUNTA:
+20. De acuerdo a la normativa del uso de luces, usted al circular en ningún caso podrá hacerlo con:
+
+OPCIONES:
+[ ] A) Luces altas en zona rural
+[✓] B) Luces altas encendidas en zona urbana
+[ ] C) Luces de estacionamiento apagadas
+
+==================================================
+
+PREGUNTA:
+21. ¿Cuál es la forma más adecuada de actuar sobre los mandos de los frenos de su motocicleta?
+
+OPCIONES:
+[ ] A) Con anticipación y de forma rápida y brusca.
+[ ] B) Mejor que usar los frenos, siempre será más aconsejable
+              sortear o esquivar el obstáculo sin necesidad de frenar.
+[✓] C) De forma suave y progresiva.
+
+==================================================
+
+PREGUNTA:
+22. Si la motocicleta no tiene asideros, ¿Dónde debe afirmarse el pasajero?
+
+OPCIONES:
+[ ] A) Pasar ambas manos alrededor de los brazos del
+              conductor.
+[ ] B) Dejar las manos en los hombros del conductor.
+[✓] C) Pasar ambas manos alrededor de la cintura del
+              conductor.
+
+==================================================
+
+PREGUNTA:
+23. Para lograr una frenada correcta:
+
+OPCIONES:
+[ ] A) Como norma general el 60% del esfuerzo de frenada debe
+              aplicarse en la rueda delantera y el 40% en la trasera.
+[✓] B) Como norma general el 70% del esfuerzo de
+              frenada debe aplicarse en la rueda delantera y el 30% en la trasera.
+[ ] C) Como norma general el 30% del esfuerzo de frenada debe
+              aplicarse en la rueda delantera y el 70% en la trasera.
+
+==================================================
+
+PREGUNTA:
+24. El frenado en dos etapas mejora la efectividad de los frenos, reduce la probabilidad de deslizamiento y
+            proporciona un mejor control.
+
+OPCIONES:
+[✓] A) Verdadero
+[ ] B) Falso
+
+==================================================
+
+PREGUNTA:
+25. ¿Cuándo usaría usted las luces de advertencia de peligro de su vehículo?
+
+OPCIONES:
+[ ] A) Cuando esté retrocediendo en una calle de poco
+              tránsito.
+[ ] B) Cuando esté en pana moviéndose lentamente.
+[✓] C) Cuando esté en pana y obstaculizando el
+              tránsito.
+[ ] D) Cuando esté siendo remolcado.
+
+==================================================
+
+PREGUNTA:
+26. Existen diferentes tipos de cascos, marque 3 tipos de cascos que señala la conaset:
+
+OPCIONES:
+[✓] A) Modulares
+[✓] B) Integrales
+[✓] C) Motocross
+[ ] D) Militares
+
+==================================================
+
+PREGUNTA:
+27. ¿Que tipo de casco es mayormente recomendable ?
+
+OPCIONES:
+[✓] A) Integrales
+[ ] B) Militares
+[ ] C) Motocross
+[ ] D) Modulares
+
+==================================================
+
+PREGUNTA:
+28. Independiente del tipo de casco que utilice, éste siempre debe ir bien ajustado y abrochado.
+
+OPCIONES:
+[✓] A) Verdadero.
+[ ] B) Falso.
+
+==================================================
+
+PREGUNTA:
+29. ¿Cuándo decimos que un casco está en mal estado?
+
+OPCIONES:
+[✓] A) Cuando presenta roturas o daños.
+[ ] B) Cuando se empaña la visera.
+[ ] C) Cuando no entra bien en la cabeza.
+
+==================================================
+
+PREGUNTA:
+30. ¿Por qué es recomendable que el casco tenga orificios?
+
+OPCIONES:
+[ ] A) Para evitar el vaho únicamente.
+[ ] B) Para evitar ruidos.
+[ ] C) Para evitar vibraciones únicamente.
+[✓] D) Para evitar el vaho y las vibraciones.
+
+==================================================
+
+PREGUNTA:
+31. Como motociclista siempre debe procurar ser visto en todo momento por los demás usuarios de la vía,
+            donde NO debe ubicarse
+
+OPCIONES:
+[ ] A) Ubicarse en la parte trasera de otro vehiculo
+[✓] B) Ubicarse en los puntos ciegos de otros
+              vehículos.
+[ ] C) Ubicarse en la parte delantera de otro vehiculo
+
+==================================================
+
+PREGUNTA:
+32. ¿Es Obligatorio usar ropa reflectante en la motocicleta?
+
+OPCIONES:
+[✓] A) Aun no
+[ ] B) De dia y noche
+[ ] C) Solo de noche
+
+==================================================
+
+PREGUNTA:
+33. La ley vigente exige que las motos tengas sus luces bajas encendidas:
+
+OPCIONES:
+[ ] A) Siempre que esté circulando de dia
+[✓] B) Siempre tanto de día como de noche
+[ ] C) Solo de noche
+
+==================================================
+
+PREGUNTA:
+34. Que debe considerar el motociclista al momento de adelantar o sobrepasar a un vehiculo:
+
+OPCIONES:
+[ ] A) Acelerar fuertemente para ser escuchado
+[✓] B) Que el conductor del vehiculo puede no
+              haberlo visto
+[ ] C) Tocar la bocina mientras adelanta o sobrepasa
+[ ] D) Hacer cambio de luces
+
+==================================================
+
+PREGUNTA:
+35. ¿Cuál es el mayor riesgo a la hora de conducir una motocicleta?
+
+OPCIONES:
+[ ] A) La inexperiencia
+[ ] B) Las Drogas
+[✓] C) La inexperiencia, la imprudencia
+
+==================================================
+
+PREGUNTA:
+36. De las siguientes afirmaciones, ¿Cuáles son verdaderas? (Marque dos alternativas)
+
+OPCIONES:
+[✓] A) Discutir con alguien o estar pendiente de la
+              radio del vehículo aumenta el riesgo de pasar por alto una situación relevante del tránsito
+[ ] B) Un conductor que va con mucha prisa tiende a ser mas
+              cauteloso
+[✓] C) La falta de atención a las condiciones de
+              tránsito es una de las principales causas de los siniestros
+
+==================================================
+
+PREGUNTA:
+37. ¿Cuál es la cualidad que deben tener todos los conductores para que colaboren con la convivencia vial?
+
+OPCIONES:
+[ ] A) Velar por uno mismo, sin interesarse por los demás
+[✓] B) Tener un nivel adecuado de Educación Vial
+[ ] C) Solo conocer la normativa vigente
+
+==================================================
+
+PREGUNTA:
+38. En cuanto a la concentración de alcohol en la sangre de una persona que ingiere la misma cantidad en
+            ocasiones diferentes, ¿cuál de las siguientes afirmaciones es FALSA?
+
+OPCIONES:
+[ ] A) Aunque la persona beba la misma cantidad de alcohol cada
+              ocasión, la concentración de éste en su sangre puede ser diferente.
+[ ] B) Entre otros factores, la concentración de alcohol también
+              depende del tiempo que dura la ingestión cada vez.
+[ ] C) La concentración de alcohol depende de cuánto se come en
+              cada ocasión.
+[✓] D) Si la cantidad de alcohol ingerida en cada
+              ocasión es exactamente la misma, la concentración de alcohol en la sangre también será la misma.
+
+==================================================
+
+PREGUNTA:
+39. En el caso de reincidencia 3 veces en la conducción en estado de ebriedad, o bajo la influencia de
+            sustancias estupefacientes o sicotrópicas, el juez debe decretar la cancelación de la licencia del conductor
+            infractor cuando estime que su conducción ofrece peligro para el tránsito o para la seguridad pública. ¿Es
+            esta afirmación verdadera?
+
+OPCIONES:
+[ ] A) Si, pero solo en caso de haber lesiones gravísimas
+[ ] B) No.
+[✓] C) Sí.
+
+==================================================
+
+PREGUNTA:
+40. Los trastornos de sueño, como el insomnio, pueden provocar una fuerte somnolencia en el día, la cual
+            influye muy negativamente en la seguridad vial.
+
+OPCIONES:
+[ ] A) Falso
+[✓] B) Verdadero
+
+==================================================
+
+PREGUNTA:
+41. ¿Cuán mayor puede ser el riesgo de accidente para un conductor que presenta una tasa de alcohol en la
+            sangre entre 0,6 y 0,8 gr/l?
+
+OPCIONES:
+[✓] A) 5 veces mayor
+[ ] B) 3 veces mayor
+[ ] C) 2 veces mayor
+
+==================================================
+
+PREGUNTA:
+42. En esta perspectiva lineal, se nos hace creer que:
+
+OPCIONES:
+[ ] A) Se está más lejos del lado derecho
+[ ] B) Se va en subida.
+[✓] C) Donde convergen las líneas está más
+              lejano.
+
+==================================================
+
+PREGUNTA:
+43. Cuál de estas afirmaciones es falsa:
+
+OPCIONES:
+[ ] A) Los conductores más viejos sufren menos siniestros.
+[ ] B) La baja velocidad es más importante que otras variables
+              en un siniestro.
+[✓] C) Los conductores jóvenes reaccionan en
+              cualquier situación con mayor rapidez.
+
+==================================================
+
+PREGUNTA:
+44. Usted desea adelantar a un motociclista que va delante suyo, ¿Qué hace usted?
+
+OPCIONES:
+[ ] A) Pasa cerca de él y lo más rápido posible.
+[ ] B) Trata de pasarlo en una curva.
+[✓] C) Le da tanto espacio lateral como le daría a un
+              automóvil.
+[ ] D) Toca la bocina para advertir su presencia.
+
+==================================================
+
+PREGUNTA:
+45. En un automóvil está prohibido que en los asientos delanteros viajen niños menores de:
+
+OPCIONES:
+[ ] A) 10 años
+[ ] B) 8 años
+[✓] C) 12 años
+[ ] D) No, no hay prohibiciones al respecto.
+
+==================================================
+
+PREGUNTA:
+46. Cuando nos aproximemos a un colegio cuando los niños estén saliendo de las clases. ¿Qué deberemos tener
+            en cuenta? Marque dos respuestas:
+
+OPCIONES:
+[✓] A) Que los niños pueden cruzar inesperadamente la
+              calzada.
+[ ] B) No deberemos tener nada en cuenta porque los niños saben
+              que no deben bajar a la calzada en forma sorpresiva.
+[✓] C) Que los niños pueden jugar traviesamente y
+              bajar a la calzada.
+
+==================================================
+
+PREGUNTA:
+47. Por la vía van ciclistas a los que va a sobrepasar. ¿Qué espacio lateral, como mínimo, mantiene usted
+            respecto de ellos al hacerlo?
+
+OPCIONES:
+[✓] A) A lo menos 1,5 metros.
+[ ] B) Sólo unos 50 cm, porque los ciclistas no circulan muy
+              rápido.
+[ ] C) Sólo unos 50 cm, porque los ciclistas ocupan poco
+              espacio.
+[ ] D) Poco menos de 1 metro, y al pasarlos toca la bocina.
+
+==================================================
+
+PREGUNTA:
+48. ¿Qué debe hacer un conductor cuando hay peatones en la vereda esperando para cruzar?
+
+OPCIONES:
+[ ] A) Dar la pasada sólo a los peatones que sean ancianos o
+              niños
+[✓] B) Disminuir la velocidad y prepararse para
+              detenerse
+[ ] C) Tocar la bocina para indicar a los peatones que puedan
+              cruzar
+
+==================================================
+
+PREGUNTA:
+49. Su vehículo se encuentra de frente con los peatones y el vehículo gris, ¿Qué hace usted ante esta
+            situación?
+
+OPCIONES:
+[✓] A) Espera y deja pasar primero al vehículo que
+              viene en contra, y luego usted continúa y pasa a los peatones.
+[ ] B) Hace señales a los peatones para que se alejen de la
+              calzada.
+[ ] C) Reduce su velocidad y continúa conduciendo.
+[ ] D) Hace señales de luces al vehículo que viene en contra para
+              que espere a que usted haya pasado.
+
+==================================================
+
+PREGUNTA:
+50. Usted va detrás de un camión articulado que va a doblar a la derecha hacia una vía angosta. ¿Qué debe
+            hacer usted?
+
+OPCIONES:
+[✓] A) Mantenerse detrás de él hasta que finalice su
+              maniobra.
+[ ] B) Sobrepasarlo por la derecha mientras él se desplace hacia
+              la izquierda.
+[ ] C) Desplazarse rápidamente hacia la pista adyacente y
+              sobrepasarlo.
+[ ] D) Tocar la bocina para advertir su presencia.
+
+==================================================
+
+PREGUNTA:
+51. De noche, en una zona rural, por emergencia usted estaciona su vehículo al costado de la vía. ¿En qué
+            circunstancia debe usted encender sus luces de estacionamiento?
+
+OPCIONES:
+[ ] A) Cuando la berma no es suficientemente ancha y parte del
+              vehículo queda sobre la calzada.
+[ ] B) Cuando el centro de la calzada está demarcado con línea
+              blanca continua.
+[ ] C) Cuando el camino es de tierra.
+[✓] D) Siempre.
+
+==================================================
+
+PREGUNTA:
+52. Usted conduce a 90 km/h cuando la vía es obstruida sorpresivamente por un camión que está virando a la
+            izquierda a muy poca distancia. ¿Qué es lo primero que hace usted?
+
+OPCIONES:
+[✓] A) Frena firmemente.
+[ ] B) Se desplaza a la pista de la izquierda.
+[ ] C) Hace señales de luces y toca la bocina.
+[ ] D) Disminuye levemente la velocidad.
+
+==================================================
+
+PREGUNTA:
+53. En un cruce hay peatones atravesando la calle hacia la cual usted está virando. ¿Qué hace usted?
+
+OPCIONES:
+[ ] A) Les toca la bocina para advertirles su presencia.
+[✓] B) Espera permitiéndoles que crucen.
+[ ] C) Continúa ya que usted tiene el derecho preferente de
+              paso.
+[ ] D) Les hace señas para que retrocedan.
+
+==================================================
+
+PREGUNTA:
+54. Por una carretera, usted circula detrás de otro vehículo. Si la calzada está mojada, ¿qué espacio de
+            tiempo mínimo mantendrá usted respecto del vehículo que va adelante?
+
+OPCIONES:
+[ ] A) El equivalente a lo que recorre en 2 segundos.
+[✓] B) A lo menos, el equivalente a lo que recorre en
+              4 segundos.
+[ ] C) Como máximo, el equivalente a lo que recorre en 3
+              segundos.
+[ ] D) El equivalente a lo que recorre en 1 segundo.
+
+==================================================
+
+PREGUNTA:
+55. A menos que esté permitida otra forma de estacionamiento, usted debe hacerlo en forma paralela a la
+            cuneta :
+
+OPCIONES:
+[ ] A) A no menos de 50 cm y dejando una distancia mínima de 60
+              cm respecto a otros vehículos estacionados
+[ ] B) A no MENOS de 30 cm y dejando una distancia máxima de 60
+              cm respecto a otros vehículos estacionados
+[ ] C) A no menos de 40 cm y dejando una distancia mínima de 60
+              cm respecto a otros vehículos estacionados
+[✓] D) A no MÁS de 30 cm y dejando una distancia
+              mínima de 60 cm respecto a otros vehículos estacionados
+
+==================================================
+
+PREGUNTA:
+56. La maniobra de adelantamiento es:
+
+OPCIONES:
+[ ] A) Maniobra mediante la cual un vehículo pasa a otro u otros
+              que circulan en el mismo sentido sin traspasar el eje de la calzada.
+[✓] B) Maniobra efectuada por el costado izquierdo
+              del eje de la calzada, mediante la cual un vehículo se sitúa delante de otro u otros que le
+              antecedían.
+[ ] C) Maniobra mediante la cual un vehículo pasa a otro u otros
+              que circulan en el mismo sentido
+
+==================================================
+
+PREGUNTA:
+57. En zonas no urbanas y cuando la calzada tiene 2 o más pistas en un mismo sentido, la velocidad máxima
+            permitida a los vehículos livianos es:
+
+OPCIONES:
+[ ] A) 90km/h
+[ ] B) 80km/h
+[✓] C) 120km/h
+[ ] D) 100km/h
+
+==================================================
+
+PREGUNTA:
+58. ¿En qué situación usted no avanzará teniendo luz verde?
+
+OPCIONES:
+[✓] A) Cuando no exista vía libre a lo menos en 10
+              metros
+[ ] B) Cuando efectúe un viraje
+[ ] C) Cuando no exista vía libre a lo menos en 5 metros
+
+==================================================
+
+PREGUNTA:
+59. Una persona conduce durante largo rato por una calzada recta en muy buen estado y con poco tránsito en
+            contra. En estas circunstancias, el conductor encuentra un vehículo al que desea adelantar. Respecto a esta
+            acción, ¿Cuál de las siguientes afirmaciones es VERDADERA?
+
+OPCIONES:
+[✓] A) Adelantar en esta situación puede ser
+              peligroso ya que el conductor puede subestimar la velocidad del tránsito que viene en contra
+[ ] B) Adelantar en esta situación no es recomendable, ya que
+              puede cruzarse un peatón de manera sorpresiva
+[ ] C) Adelantar en esta situación es siempre correcto y no
+              implica riesgo alguno
+
+==================================================
+
+PREGUNTA:
+60. ¿Qué debería hacer un conductor al aproximarse a una cima y tiene poca visibilidad?
+
+OPCIONES:
+[ ] A) Situarse al centro de la calzada para tener una mejor
+              visibilidad en la cúspide de la cima
+[ ] B) Aumentar la velocidad para reducir el tiempo de poca
+              visibilidad
+[✓] C) Reducir obligatoriamente la velocidad y
+              mantenerse a la derecha
+
+==================================================
+
+PREGUNTA:
+61. Que debería hacer el conductor del auto que se observa en la imagen
+
+OPCIONES:
+[ ] A) Retroceder para salir del cruce
+[✓] B) Continuar con precaución
+[ ] C) Esperar en el mismo lugar hasta tener luz verde
+
+==================================================
+
+PREGUNTA:
+62. ¿Por qué el monóxido de carbono es peligroso para las personas?
+
+OPCIONES:
+[✓] A) Porque no tiene olor y es venenoso
+[ ] B) Es un gas oscuro pero no es venenoso.
+[ ] C) Porque es venenoso solamente.
+[ ] D) Nunca provoca daños ni aunque se huela durante una
+              hora.
+
+==================================================
+
+PREGUNTA:
+63. ¿Si la persona afectada es un motociclista con casco, usted debiera?
+
+OPCIONES:
+[ ] A) Quítele el casco siempre y cuando se encuentre
+              hablando
+[ ] B) Súbalo a su vehículo y sáquelo del lugar
+[✓] C) No le quite el casco por ningún motivo
+[ ] D) Súbalo a la moto y llévelo al centro de salud más
+              próximo
+
+==================================================
+
+PREGUNTA:
+64. La berma es una franja de seguridad lateral a la calzada:
+
+OPCIONES:
+[ ] A) Por la que se debe circular poco
+[ ] B) Por la que se circula siempre por ser zona segura
+[ ] C) Por la que circulan cuando hay mucho trafico
+[✓] D) Por la que no se debe circular
+
+==================================================
+
+PREGUNTA:
+65. Su motocicleta debe disponer obligatoriamente dispositivo reflectante. ¿Dónde debe estar situado?
+
+OPCIONES:
+[ ] A) En la parte delantera
+[✓] B) En la parte delantera, lateral trasera y parte
+              posterior trasera
+[ ] C) En la parte delantera y trasera
+
+==================================================
+
+PREGUNTA:
+66. ¿Cuáles son los requisitos para usar un casco?
+
+OPCIONES:
+[ ] A) Los cascos no se exigen al manejar en calles de la
+              ciudad.
+[ ] B) Solamente se les exige usar cascos a los pasajeros.
+[ ] C) Es opción usar casco
+[✓] D) Siempre se les exige usar cascos a los
+              motociclistas y pasajeros.
+
+==================================================
+
+PREGUNTA:
+67. ¿Qué es lo que (NO deberías hacer) al momento de auxiliar a una persona lesionada en un siniestro de
+            tránsito?
+
+OPCIONES:
+[✓] A) Si el accidentado es un motociclista con
+              casco, se deberá quitárselo para permitir que pueda respirar con solvencia y tranquilidad
+[ ] B) Si la persona lesionada tiene un brazo o una pierna
+              sangrando, se deberá elevar la extremidad para reducir el sangramiento
+[ ] C) Se debe aplicar presión manual firme sobre la herida,
+              usando de preferencia un material limpio, sin presionar algún cuerpo extraño en ésta
+
+==================================================
+
+PREGUNTA:
+68. Si un conductor sufre un siniestro con un motociclista y este último queda consciente pero en shock,
+            ¿Qué debería hacer el conductor del vehículo para ayudar?
+
+OPCIONES:
+[ ] A) Sacarle el casco para que el motociclista pueda respirar
+              mejor
+[✓] B) Llamar a los equipos de emergencia y no
+              sacarle el casco
+[ ] C) Ayudarlo a pararse o a moverse
+
+==================================================
+
+PREGUNTA:
+69. Indique cuáles de las siguientes son señales de servicio:
+
+OPCIONES:
+[✓] A) Aeropuerto.
+[✓] B) Hospital.
+[ ] C) Zona de avalanchas.
+
+==================================================
+
+PREGUNTA:
+70. ¿Cuál de estas imágenes te indica que más adelante hay una zona de curvas?
+
+OPCIONES:
+[✓] A) Señal 3
+[ ] B) Señal 2
+[ ] C) Señal 1
+
+==================================================
+
+PREGUNTA:
+71. La segunda causa de muerte en Chile son los siniestros de tránsito, afectando en mayor medida a la
+            población:
+
+OPCIONES:
+[✓] A) Entre los 15 y los 29 años.
+[ ] B) Entre los 30 y los 39 años.
+[ ] C) Entre los 40 y los 49 años.
+[ ] D) Entre los 50 y los 61 años.
+
+==================================================
+
+PREGUNTA:
+72. ¿Cuántos siniestro al año se registran en Chile?
+
+OPCIONES:
+[ ] A) 45.000 siniestros
+[ ] B) 35.000 siniestros
+[ ] C) 20.000 siniestros
+[✓] D) 82.000 siniestros
+
+==================================================
+
+PREGUNTA:
+73. Un peatón que es atropellado a una velocidad de 65 k/hora, tendrá como consecuencia que:
+
+OPCIONES:
+[ ] A) Tenga una alta probabilidad de salvarse de morir.
+[✓] B) Lo más probable es que muera.
+[ ] C) Tenga muy baja probabilidad de morir.
+[ ] D) Lo mas probable que no le suceda nada.
+
+==================================================
+
+PREGUNTA:
+74. ¿Dónde se producen la mayor parte de fallecidos por siniestros de tránsito?
+
+OPCIONES:
+[ ] A) Carreteras.
+[ ] B) Vías no rurales.
+[✓] C) Vías interurbanas o no urbanas.
+[ ] D) Vías urbanas.
+
+==================================================
+
+PREGUNTA:
+75. ¿Dónde se producen la mayor parte de los siniestros de tránsito?
+
+OPCIONES:
+[ ] A) Vías o áreas rurales.
+[✓] B) Vías o áreas urbanas.
+[ ] C) Carreteras.
+[ ] D) Autopistas.
+
+==================================================
+
+PREGUNTA:
+76. ¿Cuántas personas mueren diariamente en Chile a causa de los siniestros de tránsito?
+
+OPCIONES:
+[✓] A) Entre 4 y 5 personas.
+[ ] B) Unas 600 personas.
+[ ] C) Entre 9 y 15 personas.
+[ ] D) Entre 6 y 9 personas.
+
+==================================================
+
+PREGUNTA:
+77. ¿Cuáles son los factores de mayor incidencia en la ocurrencia de siniestros de tránsito?
+
+OPCIONES:
+[✓] A) El exceso de velocidad, la desobediencia y el
+              consumo de alcohol.
+[ ] B) El exceso de consumo de drogas y confianza.
+[ ] C) El exceso de consumo de drogas y alcohol.
+[ ] D) El exceso de consumo de marihuana y alcohol.
+
+==================================================
+
+PREGUNTA:
+78. ¿Cuál es el género con más fallecidos en siniestros de tránsito?
+
+OPCIONES:
+[ ] A) Las Mujeres con un 60% sobre el total.
+[✓] B) Los Hombres con un 79% sobre el total.
+[ ] C) Los Hombres con un 92% sobre el total.
+
+==================================================
+
+PREGUNTA:
+79. Anualmente en Chile mueren producto de los siniestros de transito aproximadamente:
+
+OPCIONES:
+[ ] A) 5.000 personas anuales
+[ ] B) 1.000 personas anuales
+[✓] C) 1.600 personas anuales
+[ ] D) 12.000 personas anuales
+
+==================================================
+
+PREGUNTA:
+80. Existen estudios que indican que en promedio, por cada persona fallecida en siniestros de tránsito, una
+            cantidad X de personas cercanas sufren dolor, ese número es alrededor de:
+
+OPCIONES:
+[✓] A) 100 personas
+[ ] B) 150 personas
+[ ] C) 20 personas
+
+==================================================
